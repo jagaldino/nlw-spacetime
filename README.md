@@ -3,7 +3,7 @@
 <p>
 
 ## 🖥️ Projeto
-O projeto é um projeto web responsivo de uma cáspsula do tempo para exibir memórias em uma linha do tempo
+O projeto é um web responsivo de uma cáspsula do tempo para exibir memórias em uma linha do tempo
 
 ## 👨‍💻 Tecnologias
 Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
