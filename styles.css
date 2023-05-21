@@ -162,3 +162,17 @@ aside span {
   }
 
 }
+
+footer {
+    display: flex;
+    background-color: #483D8B;
+    color: #fff;
+    padding: 10px;
+    text-align: justify;
+    flex-direction: row;
+    justify-content: center;
+}
+
+footer p {
+    margin: 0;
+}
